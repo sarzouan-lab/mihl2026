@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --color-mihl-navy: #0b1e3a;
+  --color-mihl-blue: #1e6bd6;
+  --color-mihl-ice: #eef4fb;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
